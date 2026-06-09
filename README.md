@@ -463,7 +463,9 @@ The Okta Salesforce application username was updated to match the exact Salesfor
 
 After the username mapping was corrected, Salesforce was able to map the SAML Subject to the correct user.
 
-### Screenshot Placeholder
+### SSO Error 
+
+![Okta-Sales force IAM Lab SSO Error](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20190519.png)
 
 ```markdown
 ![SSO Error](images/module-8-sso-error.png)
