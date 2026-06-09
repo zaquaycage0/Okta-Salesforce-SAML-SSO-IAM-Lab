@@ -217,11 +217,9 @@ Create test users in Okta to simulate employee identities.
 | Test User 1 | HR-style user for group assignment testing | Active |
 | Test User 2 | Marketing-style user for Salesforce access testing | Active |
 
-### Screenshot Placeholder
+### Creating a User
 
-```markdown
-![Okta Users Created](images/module-2-okta-users-created.png)
-```
+![Okta-Sales force User created](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20185959.png)
 
 ### What I Learned
 
