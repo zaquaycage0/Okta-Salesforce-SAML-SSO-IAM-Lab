@@ -182,11 +182,12 @@ Prepare the Okta and Salesforce developer environments for the IAM SSO lab.
 
 Okta was used as the Identity Provider and Salesforce Developer Edition was used as the SaaS Service Provider. Both platforms were opened in separate browser tabs to support the SAML configuration workflow.
 
-### Screenshot Placeholder
+## Architecture Diagram
 
-```markdown
-![Okta and Salesforce Setup](images/module-1-okta-salesforce-setup.png)
-```
+![Okta-Sales force IAM Lab Architecture](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Architecture%20Diagram%20okta.png)
+
+**Figure 1:** Okta-to-Salesforce SAML SSO architecture showing Okta as the Identity Provider, Salesforce as the Service Provider, and SAML authentication flow between both systems.
+
 
 ### What I Learned
 
