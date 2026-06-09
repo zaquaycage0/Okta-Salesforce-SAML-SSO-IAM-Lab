@@ -359,11 +359,9 @@ Add Salesforce as an application integration in Okta and configure SAML 2.0 as t
 | Environment Type | Sandbox / Test |
 | MFA Method | Okta Verify |
 
-### Screenshot Placeholder
+### Okta Salesforce App Configuration
 
-```markdown
-![Okta Salesforce App Configuration](images/module-6-okta-salesforce-app-configuration.png)
-```
+![Okta-Sales force IAM Lab Salesforce SAML SSO](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20202245.png)
 
 ### What I Learned
 
@@ -404,11 +402,10 @@ Salesforce Application Assignment
 Salesforce App Appears on Okta Dashboard
 ```
 
-### Screenshot Placeholder
+### Salesforce App Assigned to Group
 
-```markdown
-![Salesforce App Assigned to Group](images/module-7-salesforce-group-assignment.png)
-```
+![Okta-Sales force IAM Lab Salesforce App Assigned to Group](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20201651.png)
+
 
 ### What I Learned
 
