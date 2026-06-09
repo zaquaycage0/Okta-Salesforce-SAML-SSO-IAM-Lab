@@ -253,12 +253,9 @@ Create Okta groups and assign users to those groups to demonstrate group-based a
 
 Instead of assigning applications directly to each user, access can be assigned to a group. When a user is added to the group, the user inherits access to the applications assigned to that group.
 
-### Screenshot Placeholder
+### Groups Created
 
-```markdown
-![Okta Groups Created](images/module-3-okta-groups-created.png)
-![Okta Group Membership](images/module-3-okta-group-membership.png)
-```
+![Okta-Sales force IAM Groups](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20190107.png)
 
 ### What I Learned
 
@@ -284,11 +281,9 @@ Review where MFA and authentication policies are configured in Okta.
 
 Okta authentication policies control how users authenticate to Okta and applications. Policies can be configured to require factors such as password, Okta Verify, phishing-resistant authentication, or other MFA methods depending on the application and organizational requirements.
 
-### Screenshot Placeholder
+###  Authentication Policies
 
-```markdown
-![Okta Authentication Policies](images/module-4-okta-authentication-policies.png)
-```
+![Okta-Sales force IAM Lab  Authentication Policies](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20195943.png)
 
 ### What I Learned
 
@@ -326,11 +321,9 @@ Enable SAML Single Sign-On in Salesforce so Salesforce can accept SAML assertion
 | Assertion Decryption | Not Encrypted |
 | User Provisioning | Not Enabled |
 
-### Screenshot Placeholder
+### Salesforce SAML SSO
 
-```markdown
-![Salesforce SAML SSO Settings](images/module-5-salesforce-saml-sso-settings.png)
-```
+![Okta-Sales force IAM Lab Salesforce SAML SSO](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20200909.png)
 
 ### What I Learned
 
