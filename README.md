@@ -467,10 +467,9 @@ After the username mapping was corrected, Salesforce was able to map the SAML Su
 
 ![Okta-Sales force IAM Lab SSO Error](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-08%20190519.png)
 
-```markdown
-![SSO Error](images/module-8-sso-error.png)
-![Corrected Username Mapping](images/module-8-corrected-username-mapping.png)
-```
+### Corrected Username Mapping
+
+![Okta-Sales force IAM Lab Corrected](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-12%20200018.png)
 
 ### What I Learned
 
