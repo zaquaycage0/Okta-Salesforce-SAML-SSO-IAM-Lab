@@ -520,13 +520,9 @@ ACR Weak: PasswordProtectedTransport
 
 This confirmed that Okta Verify MFA was included in the authentication context.
 
-### Screenshot Placeholder
+### Salesforce SAML Validator Results
 
-```markdown
-![Salesforce SAML Validator Results](images/module-9-saml-validator-results.png)
-![Okta System Log](images/module-9-okta-system-log.png)
-![Salesforce Login History](images/module-9-salesforce-login-history.png)
-```
+![Okta-Sales force IAM Validator Results](https://raw.githubusercontent.com/zaquaycage0/zaquaycage0/refs/heads/main/Screenshot%202026-06-12%20195504.png)
 
 ### What I Learned
 
